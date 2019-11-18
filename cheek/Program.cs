@@ -10,6 +10,7 @@ namespace cheek
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test2");
         }
     }
 }
